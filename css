@@ -1,0 +1,10 @@
+#footer-info {
+    text-align: left;
+    color: #666;
+    padding-bottom: 10px;
+    float: left;
+}
+#main-footer #footer-info {
+    float: none;
+    text-align: center;
+}
